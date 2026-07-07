@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Registration mark icon -->
+  <circle cx="32" cy="32" r="28" stroke="#0088C7" stroke-width="3" fill="none"/>
+  <circle cx="32" cy="32" r="4" fill="#E83D4D"/>
+  <line x1="32" y1="8" x2="32" y2="20" stroke="#1A1A2E" stroke-width="2"/>
+  <line x1="32" y1="44" x2="32" y2="56" stroke="#1A1A2E" stroke-width="2"/>
+  <line x1="8" y1="32" x2="20" y2="32" stroke="#1A1A2E" stroke-width="2"/>
+  <line x1="44" y1="32" x2="56" y2="32" stroke="#1A1A2E" stroke-width="2"/>
+  <rect x="10" y="10" width="44" height="44" rx="2" stroke="#FFB800" stroke-width="1.5" stroke-dasharray="4 4"/>
+</svg>

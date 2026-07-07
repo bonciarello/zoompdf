@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cristianporco.it/app/convertitore-di-pdf-in-immagini-png-con-zoom-e-ritaglio/sitemap.xml
